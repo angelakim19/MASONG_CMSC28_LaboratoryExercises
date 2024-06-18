@@ -13,12 +13,7 @@ Contents:
 7. Exercise 6: Object-Oriented Programming 2 (Activity 3)
 8. Exercise 7: Object-Oriented Programming 3 (Inheritance and Encapsulation)
       - Files:
-           ProductInventory.h
-           ProductMain.cpp
+           ProductInventory.h & ProductMain.cpp
 9. Exercise 8: Object-Oriented Programming 4 (Inheritance)
       - Files:
-           Employees.h
-           Person.h
-           Student.h
-           TestEmployee.cpp
-           TestStudent.cpp
+           Employees.h, Person.h, Student.h, TestEmployee.cpp & TestStudent.cpp
