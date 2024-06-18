@@ -1,4 +1,5 @@
 Laboratory Exercises for Computer Programming II
+
 Welcome to the repository for my laboratory exercises in Computer Programming II! Here you will find a collection of practical assignments completed throughout the second semester of my major. These exercises are aimed at strengthening programming skills and applying theoretical knowledge to real-world programming tasks.
 
 Contents:
